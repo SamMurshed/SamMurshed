@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamMurshed
-- 👀 I’m interested in computer programming, IT, and product management.
-- 🌱 I’m currently learning data structures and Front-End web development.
-- 💞️ I’m looking to collaborate on applications can are pioneers in its industry.
-- ⚡ Fun fact: I love to gaze upon nature and read books!
+- 👀 I’m interested in computer programming, CyberSecurity, and Data Analysis.
+- 🌱 I’m currently learning Operating Systems and Android Development.
+- 💞️ I’m looking to collaborate on applications that are pioneering their industry.
+- ⚡ Fun fact: I love to gaze upon nature and go the the gym!
