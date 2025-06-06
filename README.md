@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamMurshed
-- 👀 I’m interested in computer programming, CyberSecurity, and Data Analysis.
-- 🌱 I’m currently learning Operating Systems and Android Development.
+- 👀 I’m interested in innovative software development, CyberSecurity, and Data Analysis.
+- 🌱 I’m currently learning Kotlin, XML, and Android Development.
 - 💞️ I’m looking to collaborate on applications that are pioneering their industry.
-- ⚡ Fun fact: I love to gaze upon nature and go the the gym!
+- ⚡ Fun fact: I love to gaze upon nature and go to the gym!
