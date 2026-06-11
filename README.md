@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamMurshed
-- 👀 I’m interested in innovative software development, application creation, and overall tech management.
-- 🌱 I’m currently learning Kotlin, XML, and Android Development.
+- 👀 I’m interested in innovative software development for social good.
+- 🌱 I’m currently learning Google AI.
 - 💞️ I’m looking to collaborate on applications that are pioneering their industry.
 - ⚡ Fun fact: I love to gaze upon nature and go to the gym!
